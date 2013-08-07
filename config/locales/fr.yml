@@ -1,0 +1,46 @@
+fr:
+  Language: langue
+  spree:
+    invoice_print: Facture Imprimer
+    language: langue
+    vat_number: Vat Nombre
+    invoice: Facture
+    company_address: Entreprise Adresse
+
+    fax: FAX
+    transaction_date: Transaction Datum
+    invoice_number: Facture Aantal
+    transction_number:  Transction Nombre
+    account: Konto/Account
+    bic:  BIC
+    to: à
+    ship_to: Schiff To
+    unit_price: Einheit / Einzelpreis
+    base_price: Basis Preis
+    vat: VAT
+    vat_p: VAT %
+    total: Insgesamt
+    sub_total: Sub-Total
+    shipping_handling: Liefer-und Versandkosten
+    coupon_discount:  Discount Coupon
+    total_due:  Total Due
+    footer_quote: Die Zahlung erfolgt innerhalb von 30 Tagen nach Rechnungsdatum date.If Sie haben Fragen zu diesem Gesetz.
+    contact: Contact
+
+    company:
+         company_settings: Entreprise réglages  
+         company_name: Entreprise nom   
+         company_slogan:  Entreprise Slogan  
+         company_address_number: Entreprise adresse nombre  
+         company_street:  Entreprise rue  
+         company_city:    Entreprise ville  
+         company_zip:     Entreprise Code Postal  
+         company_phone:   Entreprise téléphone  
+         company_fax:     Entreprise Fax  
+         company_email:   Entreprise Email  
+         company_website: Entreprise site Web  
+         company_vatnumber: Entreprise Vat-nombre  
+         company_bannumber: Entreprise Ban-nombre  
+         company_bicnumber: Entreprise BIC-nombre  
+    Bulk PDF Generation: BULK PDF Génération
+    Language: Langue

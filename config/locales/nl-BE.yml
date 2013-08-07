@@ -1,0 +1,47 @@
+# Nederlands- BE
+
+nl-BE:
+  Language: Taal
+  spree:
+      invoice_print: Factuur Afdrukken
+      language: Taal
+      vat_number: Vat Aantal
+      invoice: Factuur
+      company_address: Firma Adres
+      fax: FAX
+      transaction_date: Transaction Datum
+      invoice_number: Factuur Aantal
+      transction_number:  Transction Aantal
+      account: Rekening/Account
+      bic:  BIC
+      to: Naar
+      ship_to: Schip To
+      unit_price: Eenheid/Unit-Prijs
+      base_price: Base Prijs
+      vat: VAT
+      vat_p: VAT %
+      total: Totaal
+      sub_total: Sub-Totaal
+      shipping_handling: Scheepvaart & Behandeling
+      coupon_discount:  Coupon Korting
+      total_due:  Totaal Verschuldigd
+      footer_quote: Betaling is te wijten aan binnen 30 dagen na factuurdatum date.If u nog vragen omtrent deze factuur.
+      contact: Contact
+
+      company:
+         company_settings: Firma Instellingen
+         company_name: Firma naam
+         company_slogan:  Firma leuze
+         company_address_number: Firma adres Number
+         company_street:  Firma straat
+         company_city:    Firma stad
+         company_zip:     Firma ZipCode
+         company_phone:   Firma telefoon
+         company_fax:     Firma Fax
+         company_email:   Firma e-mail
+         company_website: Firma Website
+         company_vatnumber: Firma Vat Aantal
+         company_bannumber: Firma Ban Aantal
+         company_bicnumber: Firma BIC Aantal
+      Bulk PDF Generation: BULK PDF Generatie
+      Language: Taal
