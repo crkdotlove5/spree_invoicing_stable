@@ -6,12 +6,7 @@ Introduction goes here.
 Spree Invoicing Extension
 ------------
  1.Added Invoice Generation.
- 2.Added Multi-Lingual.
- 3.Added Vat-Number to User Billing Address.
- 4.Added Company Information with Preferences to ADMIN Configuration Tab.
- 5.Added Language to User Account.
- 6.Added Rake Task to create admin user with email,language and password !
-
+ 2.Added Company Information with Preferences to ADMIN Configuration Tab.
 
 
 Installation
@@ -24,7 +19,7 @@ gem 'spree_invoicing'
 ```
 
 ```ruby
-gem 'spree_invoicing',:git => 'git@gitlab.partheas.net:kirana/spree_invoicing.git'
+gem 'spree_invoicing',:git => 'git@github.com:saikiranmothe/spree_invoicing_stable.git'
 ```
 
 
@@ -37,11 +32,6 @@ bundle
 bundle exec rails g spree_invoicing:install
 ```
 
-Create  Admin User with email,password and language !
-============================================================
-
-```shell
-rake kirana_admin:create         #To Create Admin User with email,password and language !
 ```
 
 

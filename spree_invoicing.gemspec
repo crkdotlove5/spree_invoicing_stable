@@ -14,8 +14,7 @@ Gem::Specification.new do |s|
 
   s.author    = 'saikiran'
   s.email     = 'saikiran.mothe@gmail.com'
-  s.email     = 'sai.kiran@partheas.com'
-  s.homepage  = 'http://www.partheas.com'
+  #s.homepage  = 'http://www.tes.com'
 
 
   # s.author    = 'You'
