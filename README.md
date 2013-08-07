@@ -33,7 +33,12 @@ bundle exec rails g spree_invoicing:install
 ```
 
 ```
-
+Copy Applicatoin LOGO -- Follow Steps
+--------------
+Rename LOGO to spree_50.png
+And then copy to this path
+#{Application}/app/assets/admin/bg/spree_50.png
+```
 
 Testing
 -------
