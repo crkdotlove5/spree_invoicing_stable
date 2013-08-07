@@ -5,11 +5,13 @@ Introduction goes here.
 
 Spree Invoicing Extension
 ------------
+```ruby
+
  1.Added Invoice Generation.
  2.Added Company Information with Preferences to ADMIN Configuration Tab.
- 3.Disabled JIRAFE Services..
+ 3.Disabled JIRAFE Services.
  4.Added Customized Footer for UI.
-
+```
 
 
 
